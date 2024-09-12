@@ -5,7 +5,7 @@
     <title>Demo</title>
 </head>
 <body>
-    <h1 style = "color:cyan">My static App demo</h1>   
+    <h1 style = "color:cyan">My App</h1>   
 </body>
 </html>
 
